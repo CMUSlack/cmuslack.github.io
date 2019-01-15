@@ -15,7 +15,7 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "CMU TEBA Slack Group"
-keywords:    "CMU, Carnegie Mellon, Carnegie Mellon University, CMU Enterpreneurship, Swartz, CMU Technology, engineering, CMU engineering, CMU Bay Area, Carnegie Mellon Bay Area, technology, slack"
+keywords:    "CMU, Carnegie Mellon, Carnegie Mellon University, CMU Entrepreneurship, Swartz, CMU Technology, engineering, CMU engineering, CMU Bay Area, Carnegie Mellon Bay Area, technology, slack"
 description: "Public landing page for CMU TEBA Slack group. Read code of conduct, request invite here."
 source_link: "https://cmuslack.github.io/"
 favicon:     "img/favicon.ico"
