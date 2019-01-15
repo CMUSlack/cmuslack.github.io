@@ -7,6 +7,4 @@ style: center
 
 ---
 
-## CMU TEBA Slack - Code of Conduct ##
-
-Please fully read the Code of Conduct <a href="http://bit.ly/CMUSlackConduct"><strong>here</strong></a>.
+## CMU TEBA Community [Code of Conduct](http://bit.ly/CMUSlackConduct)
