@@ -14,13 +14,13 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Engineering Managers Slack Group"
-keywords:    "engineering managers, vp engineering, engineering, leadership, technology, programming, software, development, slack"
-description: "Public landing page for Engineering Manager Slack group. Read code of conduct, request invite here."
-source_link: "http://engmanagers.github.io"
+title:       "CMU TEBA Slack Group"
+keywords:    "CMU, Carnegie Mellon, Carnegie Mellon University, CMU Enterpreneurship, Swartz, CMU Technology, engineering, CMU engineering, CMU Bay Area, Carnegie Mellon Bay Area, technology, slack"
+description: "Public landing page for CMU TEBA Slack group. Read code of conduct, request invite here."
+source_link: "https://cmuslack.github.io/"
 favicon:     "img/favicon.ico"
 touch_icon: # "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-132491745-1
 
 
 ### template colors, used site-wide via css ###
